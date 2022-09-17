@@ -30,4 +30,5 @@ Al terminar mostrará un mensaje así, eso quiere decir que se ha desplegado cor
 
 9. Accede a su navegador con la URL o IP creada por fly.io.
 10. A disfrutar de VSCODE!
+![alt text](https://i.ibb.co/LZ9XDc5/Screenshot-8.jpg)
 
